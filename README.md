@@ -63,4 +63,26 @@ Trabalho acadêmico coletivo realizado em 2024 no âmbito do curso de pós-gradu
 
 ---
 
-**Palavras-chave:** LGPD · Data Protection Officer · ROPA · Gestão de Riscos · ISO 27001 · ISO 27701 · Governança de Dados · Privacidade
+**Palavras-chave:** LGPD · Data Protection Officer · ROPA · Gestão de Riscos · ISO 27001 · ISO 27701 · Governança de Dados · Privacidade 
+
+## 🚀 Evolução do Projeto — 2026 | Versão 2.0
+
+Este repositório teve origem em um estudo de caso acadêmico desenvolvido durante a pós-graduação em Data Protection Officer (DPO), concluída em julho de 2024.
+
+Em outubro de 2026, o projeto foi reorganizado e ampliado como portfólio técnico, incorporando novos materiais demonstrativos sobre privacidade, proteção de dados e governança de segurança da informação.
+
+### Novos materiais
+
+- **Modelo ROPA:** exemplo fictício de registro de operações de tratamento de dados pessoais.
+- **Matriz de riscos:** identificação e avaliação ilustrativa de riscos à privacidade.
+- **Resposta a incidentes:** roteiro demonstrativo de tratamento de incidentes de segurança envolvendo dados pessoais.
+- **Atendimento aos titulares:** procedimento ilustrativo de atendimento a solicitações relacionadas à LGPD.
+- **Checklist de validação:** orientações para revisão e uso responsável dos materiais.
+
+### Competências demonstradas
+
+LGPD • Data Protection Officer • Segurança da Informação • Governança de TI • Gestão de Riscos • Privacidade de Dados • Compliance
+
+📁 [Acessar os materiais da versão 2.0](evolucao-2026/)
+
+**Nota:** os materiais complementares de 2026 têm finalidade educacional e demonstrativa. Não representam implementação em ambiente de produção, certificação ou auditoria real.
