@@ -1,0 +1,4 @@
+ID;Ativo ou processo;Evento de risco;Causa possível;Impacto sobre titulares;Probabilidade (1-5);Impacto (1-5);Nível (P x I);Prioridade didática;Tratamento proposto;Responsável fictício;Situação
+R-001;Cadastro de estudantes;Acesso não autorizado;Permissões excessivas;Exposição indevida de dados;4;4;16;Alto;Revisão de acessos e MFA;Equipe de segurança fictícia;Planejado
+R-002;Planilhas compartilhadas;Envio ao destinatário errado;Ausência de revisão;Divulgação não autorizada;3;3;9;Médio;Dupla checagem e canal seguro;Coordenação fictícia;Planejado
+R-003;Sistema de atendimento;Indisponibilidade prolongada;Falha de infraestrutura;Atraso no exercício de direitos;2;4;8;Médio;Backup e plano de continuidade;TI fictícia;Planejado
