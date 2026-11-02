@@ -29,12 +29,36 @@ Demonstrar a organização de artefatos relevantes para um programa de privacida
 4. **Discussão de adequação:** relacionar os artefatos aos princípios e obrigações da LGPD, sem assumir que seu preenchimento, isoladamente, assegura conformidade.
 5. **Lições aprendidas:** documentar pontos de atenção para privacidade, riscos e governança.
 
-## 🧰 Tecnologias e referências
+##  Tecnologias e referências
 
 - **Ferramentas:** planilhas Excel (`.xlsx`), documentos acadêmicos (`.pdf`, `.docx` em ZIP) e Markdown.
 - **Temas:** LGPD (Lei nº 13.709/2018), registro das operações de tratamento (art. 37), governança da privacidade e gestão de riscos.
 - **Referenciais abordados nos arquivos:** ISO/IEC 27001 e ISO/IEC 27701. A referência a normas não implica certificação nem reprodução integral autorizada de seus textos.
 
+##  Como avaliar este portfólio
+
+Este repositório apresenta um estudo de caso acadêmico coletivo sobre adequação à LGPD e sua evolução como portfólio educacional de governança e privacidade.
+
+###  Materiais para avaliação
+
+- **ROPA:** exemplos de documentação das operações de tratamento de dados pessoais.
+- **Gestão de riscos:** materiais de identificação e avaliação ilustrativa de riscos à privacidade.
+- **Controles de segurança:** declaração de aplicabilidade e referências às normas ISO/IEC 27001 e 27701.
+- **Resposta a incidentes:** procedimento demonstrativo de análise, registro e encaminhamento.
+- **Direitos dos titulares:** roteiro ilustrativo para atendimento de solicitações.
+
+###  Competências desenvolvidas
+
+LGPD, privacidade de dados, governança de segurança da informação, registros de tratamento, análise de riscos, documentação de controles e gestão de incidentes.
+
+###  Autoria e evolução
+
+O estudo de caso original foi desenvolvido coletivamente em 2024, durante a pós-graduação em Data Protection Officer (DPO). Em 2026, o repositório foi reorganizado e ampliado com materiais educacionais complementares.
+
+###  Escopo e limitações
+
+Os exemplos são exclusivamente acadêmicos e demonstrativos. Não representam auditoria real, certificação, parecer jurídico ou comprovação de conformidade de uma organização. A publicação e reutilização dos materiais coletivos dependem das autorizações aplicáveis.
+  
 ##  Como explorar
 
 1. Leia o [guia de uso](docs/GUIA_DE_USO.md).
@@ -42,7 +66,7 @@ Demonstrar a organização de artefatos relevantes para um programa de privacida
 3. Use o [artigo de síntese](artigos/ARTIGO_ADEQUACAO_LGPD.md) para contextualizar o projeto.
 4. Consulte a apresentação e o trabalho acadêmico somente após verificar a autorização de publicação dos materiais de autoria coletiva.
 
-## 👥 Autoria e contexto
+##  Autoria e contexto
 
 Trabalho acadêmico coletivo realizado em 2024 no âmbito do curso de pós-graduação em Data Protection Officer da FaCiência / TiExames, orientado pelo Dr. Davis Souza Alves. **Janice Lira participou como integrante do grupo**, conforme identificado na apresentação acadêmica. Os demais integrantes e os créditos completos constam no material original. O repositório funciona como organização e apresentação de portfólio; **não atribui autoria exclusiva** à mantenedora.
 
@@ -65,7 +89,7 @@ Trabalho acadêmico coletivo realizado em 2024 no âmbito do curso de pós-gradu
 
 **Palavras-chave:** LGPD · Data Protection Officer · ROPA · Gestão de Riscos · ISO 27001 · ISO 27701 · Governança de Dados · Privacidade 
 
-## 🚀 Evolução do Projeto — 2026 | Versão 2.0
+##  Evolução do Projeto — 2026 | Versão 2.0
 
 Este repositório teve origem em um estudo de caso acadêmico desenvolvido durante a pós-graduação em Data Protection Officer (DPO), concluída em julho de 2024.
 
@@ -83,6 +107,6 @@ Em outubro de 2026, o projeto foi reorganizado e ampliado como portfólio técni
 
 LGPD • Data Protection Officer • Segurança da Informação • Governança de TI • Gestão de Riscos • Privacidade de Dados • Compliance
 
-📁 [Acessar os materiais da versão 2.0](evolucao-2026/)
+ [Acessar os materiais da versão 2.0](evolucao-2026/)
 
 **Nota:** os materiais complementares de 2026 têm finalidade educacional e demonstrativa. Não representam implementação em ambiente de produção, certificação ou auditoria real.
