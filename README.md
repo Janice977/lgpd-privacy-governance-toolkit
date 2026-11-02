@@ -82,7 +82,7 @@ Trabalho acadêmico coletivo realizado em 2024 no âmbito do curso de pós-gradu
 - [ ] Confirmar autorizações de publicação e revisar dados/metadados de cada anexo.
 - [ ] Criar versões demonstrativas anonimizadas das planilhas com dicionário de campos.
 - [ ] Documentar critérios de priorização dos riscos e das medidas de segurança.
-- [ ] Adicionar exemplos fictícios de fluxo de resposta a incidentes e de atendimento aos titulares.
+- [ ] Revisar e ampliar os exemplos de resposta a incidentes e atendimento aos titulares, incluindo critérios de escalonamento e evidências fictícias.
 - [ ] Incluir referências legais e normativas atualizadas, verificando edição e aplicabilidade.
 
 ---
@@ -95,13 +95,17 @@ Este repositório teve origem em um estudo de caso acadêmico desenvolvido duran
 
 Em outubro de 2026, o projeto foi reorganizado e ampliado como portfólio técnico, incorporando novos materiais demonstrativos sobre privacidade, proteção de dados e governança de segurança da informação.
 
-### Novos materiais
 
-- **Modelo ROPA:** exemplo fictício de registro de operações de tratamento de dados pessoais.
-- **Matriz de riscos:** identificação e avaliação ilustrativa de riscos à privacidade.
-- **Resposta a incidentes:** roteiro demonstrativo de tratamento de incidentes de segurança envolvendo dados pessoais.
-- **Atendimento aos titulares:** procedimento ilustrativo de atendimento a solicitações relacionadas à LGPD.
-- **Checklist de validação:** orientações para revisão e uso responsável dos materiais.
+### Novos materiais e evidências
+
+- **[Modelo ROPA](evolucao-2026/templates/ropa-exemplo-ficticio.csv):** exemplo fictício de registro das operações de tratamento de dados pessoais.
+- **[Matriz de riscos](evolucao-2026/templates/matriz-riscos-exemplo.csv):** identificação e avaliação ilustrativa de riscos à privacidade.
+- **[Resposta a incidentes](evolucao-2026/procedimentos/resposta-a-incidentes.md):** roteiro demonstrativo de tratamento de incidentes envolvendo dados pessoais.
+- **[Atendimento aos titulares](evolucao-2026/procedimentos/atendimento-aos-titulares.md):** procedimento ilustrativo de atendimento às solicitações relacionadas à LGPD.
+- **[Checklist de validação](evolucao-2026/CHECKLIST_VALIDACAO.md):** orientações para revisão dos materiais e uso responsável.
+
+> Os materiais são exemplos educacionais e não comprovam adequação à LGPD de uma organização real.
+
 
 ### Competências demonstradas
 
