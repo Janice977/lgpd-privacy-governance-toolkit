@@ -1,0 +1,4 @@
+﻿ID,Ativo/processo,Cenário de risco (fictício),Probabilidade (1-5),Impacto (1-5),Pontuação inerente,Classificação inerente,Controles propostos,Probabilidade residual (1-5),Impacto residual (1-5),Pontuação residual,Classificação residual,Responsável (papel),Prazo de tratamento (exemplo),Evidência esperada,Status
+R-001,Matrícula,Acesso indevido por permissão excessiva,4,4,16,Alto,MFA; revisão trimestral de perfis,2,4,8,Médio,Gestor de TI,30 dias fictícios,Relatório de revisão de acessos,Planejado
+R-002,Atendimento,Envio de informação ao destinatário errado,3,3,9,Médio,Dupla verificação e treinamento,2,3,6,Baixo,Coordenação de atendimento,45 dias fictícios,Checklist de comunicação,Planejado
+R-003,Serviços acadêmicos,Indisponibilidade prolongada de sistema,2,4,8,Médio,Backups e plano de continuidade,1,4,4,Baixo,Gestor de continuidade,60 dias fictícios,Registro de teste de restauração,Planejado
