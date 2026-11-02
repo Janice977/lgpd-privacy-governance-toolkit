@@ -96,6 +96,24 @@ Este repositório teve origem em um estudo de caso acadêmico desenvolvido duran
 Em outubro de 2026, o projeto foi reorganizado e ampliado como portfólio técnico, incorporando novos materiais demonstrativos sobre privacidade, proteção de dados e governança de segurança da informação.
 
 
+##  Evolução do Projeto — Versão 2.1
+
+A versão 2.1 amplia o portfólio educacional de LGPD, privacidade e governança com modelos fictícios mais detalhados de documentação e avaliação de riscos.
+
+### Materiais disponíveis
+
+- **[Planilha Excel LGPD 2.1](evolucao-2026/versao-2.1/LGPD_Toolkit_v2_1_modelos_ficticios.xlsx):** modelos consolidados de ROPA, matriz de riscos, critérios e instruções.
+- **[ROPA 2.1](evolucao-2026/versao-2.1/ropa-v2-1-ficticia.csv):** exemplo fictício de registro de operações de tratamento de dados pessoais.
+- **[Matriz de riscos 2.1](evolucao-2026/versao-2.1/matriz-riscos-v2-1-ficticia.csv):** avaliação ilustrativa de riscos inerentes e residuais.
+- **[Documentação da versão 2.1](evolucao-2026/versao-2.1/README.md):** orientações, metodologia e limitações.
+
+### Competências evidenciadas
+
+Registro de operações de tratamento (ROPA), análise de riscos, controles de segurança, planejamento de tratamento de riscos, governança de dados e documentação de privacidade.
+
+> **Nota:** todos os exemplos são fictícios e destinados a estudos. Não representam auditoria, certificação ou comprovação de conformidade à LGPD.
+  
+
 ### Novos materiais e evidências
 
 - **[Modelo ROPA](evolucao-2026/templates/ropa-exemplo-ficticio.csv):** exemplo fictício de registro das operações de tratamento de dados pessoais.
