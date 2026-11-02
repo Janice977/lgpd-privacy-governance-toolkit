@@ -58,7 +58,7 @@ O estudo de caso original foi desenvolvido coletivamente em 2024, durante a pós
 ###  Escopo e limitações
 
 Os exemplos são exclusivamente acadêmicos e demonstrativos. Não representam auditoria real, certificação, parecer jurídico ou comprovação de conformidade de uma organização. A publicação e reutilização dos materiais coletivos dependem das autorizações aplicáveis.
-  
+
 ##  Como explorar
 
 1. Leia o [guia de uso](docs/GUIA_DE_USO.md).
@@ -85,18 +85,31 @@ Trabalho acadêmico coletivo realizado em 2024 no âmbito do curso de pós-gradu
 - [ ] Revisar e ampliar os exemplos de resposta a incidentes e atendimento aos titulares, incluindo critérios de escalonamento e evidências fictícias.
 - [ ] Incluir referências legais e normativas atualizadas, verificando edição e aplicabilidade.
 
----
-
-**Palavras-chave:** LGPD · Data Protection Officer · ROPA · Gestão de Riscos · ISO 27001 · ISO 27701 · Governança de Dados · Privacidade 
-
 ##  Evolução do Projeto — 2026 | Versão 2.0
 
 Este repositório teve origem em um estudo de caso acadêmico desenvolvido durante a pós-graduação em Data Protection Officer (DPO), concluída em julho de 2024.
 
 Em outubro de 2026, o projeto foi reorganizado e ampliado como portfólio técnico, incorporando novos materiais demonstrativos sobre privacidade, proteção de dados e governança de segurança da informação.
 
+### Novos materiais e evidências
 
-##  Evolução do Projeto — Versão 2.1
+- **[Modelo ROPA](evolucao-2026/templates/ropa-exemplo-ficticio.csv):** exemplo fictício de registro das operações de tratamento de dados pessoais.
+- **[Matriz de riscos](evolucao-2026/templates/matriz-riscos-exemplo.csv):** identificação e avaliação ilustrativa de riscos à privacidade.
+- **[Resposta a incidentes](evolucao-2026/procedimentos/resposta-a-incidentes.md):** roteiro demonstrativo de tratamento de incidentes envolvendo dados pessoais.
+- **[Atendimento aos titulares](evolucao-2026/procedimentos/atendimento-aos-titulares.md):** procedimento ilustrativo de atendimento às solicitações relacionadas à LGPD.
+- **[Checklist de validação](evolucao-2026/CHECKLIST_VALIDACAO.md):** orientações para revisão dos materiais e uso responsável.
+
+> Os materiais são exemplos educacionais e não comprovam adequação à LGPD de uma organização real.
+
+### Competências demonstradas
+
+LGPD • Data Protection Officer • Segurança da Informação • Governança de TI • Gestão de Riscos • Privacidade de Dados • Compliance
+
+ [Acessar os materiais da versão 2.0](evolucao-2026/)
+
+**Nota:** os materiais complementares de 2026 têm finalidade educacional e demonstrativa. Não representam implementação em ambiente de produção, certificação ou auditoria real.
+
+## Evolução do Projeto — Versão 2.1
 
 A versão 2.1 amplia o portfólio educacional de LGPD, privacidade e governança com modelos fictícios mais detalhados de documentação e avaliação de riscos.
 
@@ -112,23 +125,7 @@ A versão 2.1 amplia o portfólio educacional de LGPD, privacidade e governança
 Registro de operações de tratamento (ROPA), análise de riscos, controles de segurança, planejamento de tratamento de riscos, governança de dados e documentação de privacidade.
 
 > **Nota:** todos os exemplos são fictícios e destinados a estudos. Não representam auditoria, certificação ou comprovação de conformidade à LGPD.
-  
 
-### Novos materiais e evidências
+---
 
-- **[Modelo ROPA](evolucao-2026/templates/ropa-exemplo-ficticio.csv):** exemplo fictício de registro das operações de tratamento de dados pessoais.
-- **[Matriz de riscos](evolucao-2026/templates/matriz-riscos-exemplo.csv):** identificação e avaliação ilustrativa de riscos à privacidade.
-- **[Resposta a incidentes](evolucao-2026/procedimentos/resposta-a-incidentes.md):** roteiro demonstrativo de tratamento de incidentes envolvendo dados pessoais.
-- **[Atendimento aos titulares](evolucao-2026/procedimentos/atendimento-aos-titulares.md):** procedimento ilustrativo de atendimento às solicitações relacionadas à LGPD.
-- **[Checklist de validação](evolucao-2026/CHECKLIST_VALIDACAO.md):** orientações para revisão dos materiais e uso responsável.
-
-> Os materiais são exemplos educacionais e não comprovam adequação à LGPD de uma organização real.
-
-
-### Competências demonstradas
-
-LGPD • Data Protection Officer • Segurança da Informação • Governança de TI • Gestão de Riscos • Privacidade de Dados • Compliance
-
- [Acessar os materiais da versão 2.0](evolucao-2026/)
-
-**Nota:** os materiais complementares de 2026 têm finalidade educacional e demonstrativa. Não representam implementação em ambiente de produção, certificação ou auditoria real.
+**Palavras-chave:** LGPD · Data Protection Officer · ROPA · Gestão de Riscos · ISO 27001 · ISO 27701 · Governança de Dados · Privacidade
